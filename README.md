@@ -1,8 +1,6 @@
-# DataEmbedding
-Anonymous submission for NeurIPS 2025
-
-
 ## Licensing Notice
+
+This repository includes implementations for 10 out of 15 models used in our study. The remaining 5 models have license restrictions that prevent us from sharing their code. See the paper appendix for details.
 
 This repository contains third-party code released under different open-source licenses:
 
